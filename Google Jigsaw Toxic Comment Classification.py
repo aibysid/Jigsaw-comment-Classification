@@ -1,3 +1,8 @@
+''' This is the basic code file to generate the output .ipynb file in the same repository
+        any improvement or suggestion is heartly welcomed ''' 
+
+
+
 #!/usr/bin/env python
 # coding: utf-8
 
@@ -722,7 +727,11 @@ train_history = model.fit(
 
 
 sub['toxic'] = model.predict(test_dataset, verbose=1)
-sub.to_csv('submission.csv', index=False)
+sub.to_csv('submission.csv', index=False) 
+
+#The File was submitted to the competetion and gave me the initial leaderboard ranking of top 11% in this contest
+#By this time the ranking might have changed due to the high volatility and comptetitiveness of the kaggle plateform.
+#Feel free to visit this notebook on kaggle-https://www.kaggle.com/siddharthcha519810/toxic-comments-eda-and-xlm-roberta-model
 
 
 # In[ ]:

@@ -1,4 +1,4 @@
-''' This is the basic code file to generate the output .ipynb file in the same repository
+''' This is the basic code file to generate the output .pdf file in the same repository
         any improvement or suggestion is heartly welcomed ''' 
 
 

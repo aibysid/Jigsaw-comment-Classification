@@ -1,5 +1,6 @@
 ''' This is the basic code file to generate the output .pdf file in the same repository
-        any improvement or suggestion is heartly welcomed ''' 
+
+      please check .pdf file to see visualization and outputs any improvement or suggestion is heartly welcomed ''' 
 
 
 
